@@ -14,7 +14,7 @@ A simple AI tool that generates comprehensive meeting prep in 30 seconds:
 Every meeting is an opportunity. This app helps you show up prepared, confident, and in control.
 
 ## Live Demo
-🔗 [Coming soon - deploying to Netlify]
+🔗 [Coming soon - deploying to Replit]
 
 ## The Exact Prompt I Used
 ```
@@ -45,6 +45,6 @@ Building with AI is different. You don't write code line by line. You describe w
 Building one app every day using AI. No traditional coding experience.
 
 Follow the journey:
-- Instagram: [coming soon]
-- TikTok: [coming soon]
-- LinkedIn: [coming soon]
+- Instagram: [@social_icm](https://www.instagram.com/social_icm/)
+- TikTok: [@social_media_coach](https://www.tiktok.com/@social_media_coach?is_from_webapp=1&sender_device=pc)
+- LinkedIn: [Maher Social AI Strategist](https://www.linkedin.com/in/mahersocialaialstrategistv/)
