@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Prep AI",
+  "description": "An AI-powered web app to generate comprehensive meeting preparation materials including talking points, questions, potential objections, and opening lines.",
+  "requestFramePermissions": []
+}
