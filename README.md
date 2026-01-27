@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Day 1: Meeting Prep AI
 
-# Run and deploy your AI Studio app
+## The Problem
+Professionals waste 20+ minutes before every meeting scrambling through emails, Slack, and docs trying to remember context. They show up unprepared or anxious.
 
-This contains everything you need to run your app locally.
+## The Solution
+A simple AI tool that generates comprehensive meeting prep in 30 seconds:
+- Key talking points (3-5)
+- Smart questions to ask (3)
+- Potential objections with responses (2-3)
+- A confidence-boosting opening line
 
-View your app in AI Studio: https://ai.studio/apps/drive/1WK8225Fgfl5zV9cx-I3MV-QtrCh7x7vH
+## Why This Matters
+Every meeting is an opportunity. This app helps you show up prepared, confident, and in control.
 
-## Run Locally
+## Live Demo
+🔗 [Coming soon - deploying to Netlify]
 
-**Prerequisites:**  Node.js
+## The Exact Prompt I Used
+```
+Create a web app called "Meeting Prep AI". The app should have: - A clean, professional interface - Input fields for: meeting topic, attendees, your role, and meeting goal - A "Generate Prep" button - Output sections for: key talking points (3-5), smart questions to ask (3), potential objections with responses (2-3), and a confidence-boosting opening line. Use Gemini API to generate responses based on the inputs. Make it mobile-friendly and use a modern, minimal design with Google's Material Design principles. Include a "Copy to Clipboard" button for each section.
+```
 
+## Time to Build
+⏱️ 12 minutes (from idea to deployed app)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Tools Used
+- Google AI Studio (Gemini 2.5 Flash)
+- React + TypeScript
+- Vite (build tool)
+- Material Design principles
+
+## What I Learned
+Building with AI is different. You don't write code line by line. You describe what you want, and the AI writes it. The hardest part wasn't coding - it was being clear about what I wanted.
+
+## Who This Is For
+- Marketing managers preparing for client calls
+- Sales reps before prospect meetings
+- Project managers leading team syncs
+- Anyone who has back-to-back meetings and no time to prep
+
+---
+
+**Part of my 30-day vibe-coding challenge.**  
+Building one app every day using AI. No traditional coding experience.
+
+Follow the journey:
+- Instagram: [coming soon]
+- TikTok: [coming soon]
+- LinkedIn: [coming soon]
