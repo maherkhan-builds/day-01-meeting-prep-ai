@@ -25,11 +25,11 @@ Create a web app called "Meeting Prep AI". The app should have: - A clean, profe
 ⏱️ 12 minutes (from idea to deployed app)
 
 ## Tools Used
-- Google AI Studio (Gemini 2.5 Flash)
-- React + TypeScript
-- Vite (build tool)
-- Material Design principles
-- Stitch
+•	Google Stitch (UI design and prototyping)
+•	Google AI Studio (Gemini 2.5 Flash)
+•	React + TypeScript
+•	Material Design principles
+
 
 ## What I Learned
 Building with AI is different. You don't write code line by line. You describe what you want, and the AI writes it. The hardest part wasn't coding - it was being clear about what I wanted.
