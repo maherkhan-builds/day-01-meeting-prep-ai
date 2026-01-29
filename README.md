@@ -13,8 +13,8 @@ A simple AI tool that generates comprehensive meeting prep in 30 seconds:
 ## Why This Matters
 Every meeting is an opportunity. This app helps you show up prepared, confident, and in control.
 
-## Live Demo
-🔗 [Coming soon - deploying to Replit]
+## Prototype - Using Stitch
+Shared on my socials
 
 ## The Exact Prompt I Used
 ```
@@ -29,6 +29,7 @@ Create a web app called "Meeting Prep AI". The app should have: - A clean, profe
 - React + TypeScript
 - Vite (build tool)
 - Material Design principles
+- Stitch
 
 ## What I Learned
 Building with AI is different. You don't write code line by line. You describe what you want, and the AI writes it. The hardest part wasn't coding - it was being clear about what I wanted.
