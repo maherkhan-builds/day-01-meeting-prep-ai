@@ -25,9 +25,13 @@ Create a web app called "Meeting Prep AI". The app should have: - A clean, profe
 ⏱️ 12 minutes (from idea to deployed app)
 
 ## Tools Used
+•	Gemini (ideation+Prompting)
 •	Google Stitch (UI design and prototyping)
+•	Google Opal (UI design and prototyping)
 •	Replit (UI design and prototyping)
 •	Base44 (UI design and prototyping)
+•	Kimi (UI design and prototyping)
+•	Rocket (UI design and prototyping)
 •	Google AI Studio (Gemini 2.5 Flash)
 •	React + TypeScript
 •	Material Design principles
