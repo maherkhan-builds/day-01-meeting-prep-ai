@@ -1,4 +1,4 @@
-# Part of 30-Day AI App Challenge-Meeting Prep AI
+# Part of My AI App Building Challenge-Meeting Prep AI
 
 ## The Problem
 Professionals waste 20+ minutes before every meeting scrambling through emails, Slack, and docs trying to remember context. They show up unprepared or anxious.
