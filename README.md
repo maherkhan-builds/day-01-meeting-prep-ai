@@ -1,7 +1,7 @@
-# Day 01 — Meeting Prep AI  
+# Day ** — Meeting Prep AI  
 **Part of my AI App Building Challenge (Vibe Coding)**
 
-![Day 01](https://img.shields.io/badge/Day-01-6E56CF?style=for-the-badge)
+![Day **](https://img.shields.io/badge/Day-01-6E56CF?style=for-the-badge)
 ![Build Time](https://img.shields.io/badge/Built%20in-12%20minutes-0CA678?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Prototype-0B7285?style=for-the-badge)
 
