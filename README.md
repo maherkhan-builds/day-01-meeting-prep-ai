@@ -1,4 +1,8 @@
-# Day ** — Meeting Prep AI  
+# Built with Generative AI
+
+This project explores practical applications of LLM-powered systems using Google Gemini and modern TypeScript architectures.
+
+# Meeting Prep AI  
 **Part of my AI App Building Challenge (Vibe Coding)**
 
 ![Day **](https://img.shields.io/badge/Day-01-6E56CF?style=for-the-badge)
